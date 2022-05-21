@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nuovotaka.com
+Token: e83cbccb92079654069bed39af35a30d669749fe8ab8554e6fc1206d96aeaff9
