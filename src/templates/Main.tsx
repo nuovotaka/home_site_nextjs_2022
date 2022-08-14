@@ -70,7 +70,7 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a href="//blog.nuovotaka.com" className="inline-flex items-center">
+              <a href="//blog.nuovotaka.com/blog" className="inline-flex items-center">
                 <svg
                   className="w-6 h-6 mr-2"
                   fill="currentColor"
